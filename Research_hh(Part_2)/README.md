@@ -129,4 +129,4 @@ import plotly.graph_objects as go
 
 В связи с тем, что GitHub не позволяет просматривать графики с библиотеки plotly рекомендуемы источник просмотра проектной работы сайт [nbviewer.org](https://nbviewer.org).
 
-Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://github.com/xndrf/Data_Science_Project/blob/fb399cb475cf5707a1f1dd6f35ac3134167a921a/Research_hh(Part_2)/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://nbviewer.org/github/xndrf/Data_Science_Project/blob/fb399cb475cf5707a1f1dd6f35ac3134167a921a/Research_hh%28Part_2%29/Project_2_Ноутбук_шаблон.ipynb)
