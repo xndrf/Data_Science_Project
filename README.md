@@ -1,7 +1,7 @@
 # <center> DATA SCIENCE PROJECT <center>
 ### <p align="center"> Collected projects completed during training at Skillfactory </p>
 
-<center> <img src=https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg width=700 height=500></center>
+<center> <img src=https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Data_Science.jpg width=1000 height=800></center>
 
 
 Все проекты выполнены на русском языке, имеют расширение файла .ipynb, и предлогают готовый вариант решения без ссылки на набор с данными.
