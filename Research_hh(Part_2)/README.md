@@ -4,9 +4,9 @@
 
 ### Содержание проекта ###
 
-[1. Информация о проекте](#Проект-включает-в-себя-несколько-этапов:)    
-[2. Требования к оформлению](#Требования-которые-выполнялись-для-проекта:)    
-[3. Данные представленные в проекте](#Данные:)    
+[1. Информация о проекте](#Проект-включает-в-себя-несколько-этапов)    
+[2. Требования к оформлению](#Требования-которые-выполнялись-для-проекта)    
+[3. Данные представленные в проекте](#Данные)    
 [4. Библиотеки используемые в проекте](#Библиотеки-используемые-в-проекте)     
 [5. Результат](#Результаты-проекта)        
 [5. Дополнительные сведения о проекте](#Дополнительные-сведения-о-проекте)        
@@ -40,14 +40,14 @@
 
 Все необходимые таблицы находятся в схеме public базы данных project_sql:
 
-[table](ссылка)
+![table](https://github.com/xndrf/Data_Science_Project/blob/master/Research_hh(Part_2)/table_pictures/data.png)
 
 Краткая информация по таблицам:
 
 - **VACANCIES**
 Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:
 
-[vacancies](ссылка)
+![vacancies](https://github.com/xndrf/Data_Science_Project/blob/master/Research_hh(Part_2)/table_pictures/vacancies.png)
 
 Зарплатная вилка — это верхняя и нижняя граница оплаты труда в рублях (зарплаты в других валютах уже переведены в рубли). Соискателям она показывает, в каком диапазоне компания готова платить сотруднику на этой должности.
 
@@ -55,25 +55,25 @@
 
 Таблица-справочник, которая хранит код региона и его название.
 
-[areas](ссылка)
+![areas](https://github.com/xndrf/Data_Science_Project/blob/master/Research_hh(Part_2)/table_pictures/areas.png)
 
 - **EMPLOYERS**
 
 Таблица-справочник со списком работодателей.
 
-[employers](ссылка)
+![employers](https://github.com/xndrf/Data_Science_Project/blob/master/Research_hh(Part_2)/table_pictures/employers.png)
 
 - **INDUSTRIES**
 
 Таблица-справочник вариантов сфер деятельности работодателей.
 
-[industries](ссылка)
+![industries](https://github.com/xndrf/Data_Science_Project/blob/master/Research_hh(Part_2)/table_pictures/idustries.png)
 
 - **EMPLOYERS_INDUSTRIES**
 
 Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 
-[employers_industries](ссылка)
+![employers_industries](https://github.com/xndrf/Data_Science_Project/blob/master/Research_hh(Part_2)/table_pictures/employers_idustries.png)
 
 ### Библиотеки используемые в проекте:
 
@@ -125,8 +125,8 @@ import plotly.graph_objects as go
 
 ## Дополнительные сведения о проекте:
 
-Актульные версии библиотек на момент написания программы [requirements.txt](ссылка) 
+Актульные версии библиотек на момент написания программы [requirements.txt](https://github.com/xndrf/Data_Science_Project/blob/master/Research_hh(Part_2)/requirements.txt) 
 
 В связи с тем, что GitHub не позволяет просматривать графики с библиотеки plotly рекомендуемы источник просмотра проектной работы сайт [nbviewer.org](https://nbviewer.org).
 
-Ссылка на данный проект на сайте nbviewer.org находится [здесь](ссылка)
+Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://github.com/xndrf/Data_Science_Project/blob/fb399cb475cf5707a1f1dd6f35ac3134167a921a/Research_hh(Part_2)/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
