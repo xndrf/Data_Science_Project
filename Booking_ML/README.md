@@ -68,4 +68,4 @@ from termcolor import colored
 ## Дополнительные сведения о проекте
 В связи с тем, что GitHub не позволяет просматривать графики с библиотеки plotly рекомендуемы источник просмотра проектной работы сайт [nbviewer.org](https://nbviewer.org).
 
-#### **Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://nbviewer.org/github/xndrf/Data_Science_Project/blob/e9d06274774034a39d08d5ffb6cbb05c1ac2b41f/Research_hh%28Part_1%29/Project-1.%20Ноутбук-шаблон.ipynb)**
+#### **Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://nbviewer.org/github/xndrf/Data_Science_Project/blob/master/Booking_ML/kg.ipynb)**
