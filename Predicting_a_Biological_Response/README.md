@@ -1,6 +1,8 @@
 # Проект 3.  Kaggle: Predicting a Biological Response (Прогнозирование биологического ответа).
 
 
+<center> <img src=https://github.com/xndrf/Data_Science_Project/blob/master/Predicting_a_Biological_Response/jpg/20193D-graphics_Neon_molecular_bonds_close_up_136783_.jpg width=800 height=500></center>
+
 ## Цель работы:
 Предсказание биологического ответа молекул (столбец 'Activity') по их химическому составу.
 
@@ -60,4 +62,4 @@ https://www.kaggle.com/c/bioresponse
 ## Дополнительные сведения о проекте
 В связи с тем, что GitHub не позволяет просматривать графики с библиотеки plotly рекомендуемы источник просмотра проектной работы сайт [nbviewer.org](https://nbviewer.org).
 
-#### **Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://nbviewer.org/github/xndrf/Data_Science_Project/blob/master/Booking_ML/kg.ipynb)**
+#### **Ссылка на данный проект на сайте nbviewer.org находится [здесь](https://nbviewer.org/github/xndrf/Data_Science_Project/blob/06bbcbf734399749d03a29ded19c5fedb2ad1d07/Predicting_a_Biological_Response/hw.ipynb)**
